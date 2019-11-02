@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{1DF7DEE2-FA24-990A-0984-29CB5CEDEA25}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player/Player.cs" Line="26" Column="5" />
+      <File FileName="Assets/Scripts/Utility/StartScreen.cs" />
+      <File FileName="Assets/Scripts/Utility/GameSession.cs" />
+      <File FileName="Assets/Scripts/Utility/LevelExit.cs" />
+      <File FileName="../../the_enchanted_spinney/The_Enchanted_Spinney/Assets/Scripts/Player/Player.cs" />
+      <File FileName="../../block_breaker/Block Breaker/Assets/Scripts/LoseCollider.cs" />
+      <File FileName="../../the_enchanted_spinney/The_Enchanted_Spinney/Assets/Scripts/Uility/Menu.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="719441bd-542a-49ab-9d96-aed970b7c97c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
