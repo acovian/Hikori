@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GameSession : MonoBehaviour
 {
-    [SerializeField] int playerLives = 2;
+    [SerializeField] int playerLives = 7;
 
     private void Awake()
     {
